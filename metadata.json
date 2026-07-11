@@ -1,0 +1,6 @@
+{
+  "name": "Data Visualizer & Storyteller",
+  "description": "An advanced, AI-powered data visualization platform that turns raw CSV, JSON, or Excel files into elegant visual dashboards and compelling narrative stories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
