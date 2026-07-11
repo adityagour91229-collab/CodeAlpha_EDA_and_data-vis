@@ -1,7 +1,5 @@
 # 📊 CodeAlpha Exploratory Data Analysis (EDA)
 
-Author - Aditya Kumar
-
 ## 📌 Project Overview
 
 This project was developed as part of the **CodeAlpha Data Analytics Internship – Task 2 (Exploratory Data Analysis)**.
