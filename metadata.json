@@ -1,6 +1,6 @@
 {
-  "name": "Data Visualizer & Storyteller",
-  "description": "An advanced, AI-powered data visualization platform that turns raw CSV, JSON, or Excel files into elegant visual dashboards and compelling narrative stories.",
+  "name": "Exploratory Data Analysis Dashboard",
+  "description": "An interactive web application for systematically performing Exploratory Data Analysis (EDA) on custom CSV, Excel, and JSON datasets.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
